@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns	= "http://www.w3.org/ns/widgets"
+	xmlns: gap	= "http://phonegap.com/ns/1.0"
+	id			= "com.phonegap.example"
+	versionCode	= "10"
+	version		= "1.0.0"	>
+
+<!-- verrsionecode is optional and android only -->
+
+	<name>EsempioApp</name>
+
+	<description>
+		App di esempio
+	</description>
+
+	<author href="https://build.phonegap.com">
+		Tuo nome e cognome qui
+	</author>
+		
+		<platform name="android">
+				<icon src="icon.png" dendity="ldpi" />
+				<icon src="icon.png" dendity="mdpi" />
+				<icon src="icon.png" dendity="hdpi" />
+				<icon src="icon.png" dendity="xhdpi" />
+		</platform>
+</widget>		
+
